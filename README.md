@@ -1,4 +1,4 @@
-- 👋 Hi, we are Ordem, a very young digital agency
+- 👋 Hi, we are Ordem, a digital agency
 - 👀 We are interested in python
 - 🌱 We are currently learning Nextjs
 - 💞️ We are looking to collaborate on Full-stack projects in Python and React or VueJs, Flutter
